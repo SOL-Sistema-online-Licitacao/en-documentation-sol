@@ -4,4 +4,4 @@ To access the list of administrator users, click on the Users option in the side
 
 The list displays information such as name, email, document number and Association. It is possible to search for text using the information provided in the list.
 
-<figure><img src="../../../../.gitbook/assets/lista user admin.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/admin-users.png" alt=""><figcaption></figcaption></figure>

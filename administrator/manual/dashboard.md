@@ -1,12 +1,12 @@
 # Dashboard
 
-<figure><img src="../../.gitbook/assets/Dashboard (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/adm-dashboard.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 When accessing the SOL platform, you are directed to the initial panel of the System (Dashboard).
 {% endhint %}
 
-Nesta tela, você visualizará as abas disponíveis no menu principal:
+On this screen, you will see the available tabs in the main menu:
 
 * **Dashboard**
 * **Users**

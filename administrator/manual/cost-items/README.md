@@ -6,10 +6,10 @@ In the "Cost Items" tab, accessible through the main menu at the top of the page
 It is worth noting that if the cost item data has been imported from an integration, it is not possible to edit them, regardless of your administrator profile.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/Itens de Custo.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/itens-list.png" alt=""><figcaption></figcaption></figure>
 
 ### How to view item details?
 
 By clicking on one of the items, you have access to the page with the general data, including which segment and category it belongs to.
 
-<figure><img src="../../../.gitbook/assets/Dados do item.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/dados-item.png" alt=""><figcaption></figcaption></figure>
