@@ -6,6 +6,6 @@ To delete a registered cost item, simply click on the delete icon (trash can) av
 
 
 
-<figure><img src="../../../.gitbook/assets/del item.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/del item.png" alt=""><figcaption></figcaption></figure>
 
 Then, the system will display a confirmation modal, simply click on "Delete" and that item will be removed from the system.

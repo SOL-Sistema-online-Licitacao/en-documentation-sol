@@ -4,6 +4,6 @@
 
 To add a new cost item to the system, simply click on the "New item" button. Then, fill in the requested fields.
 
-<figure><img src="../../../.gitbook/assets/new-item.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/new-item.png" alt=""><figcaption></figcaption></figure>
 
 After filling in all the fields, simply click on "Create item".

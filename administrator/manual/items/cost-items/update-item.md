@@ -6,6 +6,6 @@ To edit information for a registered cost item, simply click on the edit icon (p
 
 
 
-<figure><img src="../../../.gitbook/assets/edit item.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/edit item.png" alt=""><figcaption></figcaption></figure>
 
 Then, make the necessary changes and click on "Save". The changes will be saved and the item will be updated.
