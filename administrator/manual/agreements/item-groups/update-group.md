@@ -10,6 +10,6 @@ To add new items, simply type the first three letters of the item in question in
 
 Then, select the desired item, specify quantity, estimated cost, and click Add. Repeat this operation as many times as necessary to complete your new group of items.
 
-<figure><img src="../../../../.gitbook/assets/Editar grupo.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/att-group.png" alt=""><figcaption></figcaption></figure>
 
 After making the necessary changes, click Save. The changes will be saved, and the group will be updated.

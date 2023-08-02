@@ -8,6 +8,6 @@ Each group can contain several items. To add them, just type the first three let
 
 Then, simply select the desired item, specify the quantity, estimated cost, and click Add. Repeat this operation as many times as necessary to complete your new item group.
 
-<figure><img src="../../../../.gitbook/assets/novo grupo.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/new-group.png" alt=""><figcaption></figcaption></figure>
 
 After filling in all the required fields, just click on "Create Group".
