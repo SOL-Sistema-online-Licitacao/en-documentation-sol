@@ -2,7 +2,7 @@
 
 In the page "Details of the agreement", the list of groups and items of the work plan of the agreement is presented. They are organized into groups according to product or service categories.
 
-<figure><img src="../../../.gitbook/assets/Usuários de Convênios (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/agree-data (1).png" alt=""><figcaption></figcaption></figure>
 
 ### How to see the details of a group of items?
 

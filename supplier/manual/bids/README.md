@@ -1,8 +1,8 @@
 # Bids
 
-In the "Bids" tab, which can be accessed through the main menu or by clicking on the System's home page, you will be directed to a list of all bids registered in the System, including those that have already been completed.
+In the "Bids" tab, which can be accessed through the main menu or by clicking on the System's home page, you will be directed to a list of all biddings you are participating in, including those that have already been completed.
 
-<figure><img src="../../../.gitbook/assets/Licitações (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/sup-bidding.png" alt=""><figcaption></figcaption></figure>
 
 ### Bid types
 
@@ -30,4 +30,4 @@ The only differences between proposals sent for "Closed invitation" modality and
 
 To access complete information about a bid, just click on a bid on the System's home page or in the bid area.
 
-<figure><img src="../../../.gitbook/assets/Dados da Licitação (Cancelada).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/bid-datasup.png" alt=""><figcaption></figcaption></figure>

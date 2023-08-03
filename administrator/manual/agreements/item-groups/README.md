@@ -6,7 +6,7 @@ When you click on the name of a agreement, you have access to the page with gene
 The "Work Plan" is where the items purchased in that Agreement must be specified. To access the page with these items, just click on the work plan link.
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/agree-data.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/agree-data (2).png" alt=""><figcaption></figcaption></figure>
 
 ### How to view group details?
 

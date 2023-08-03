@@ -1,10 +1,10 @@
 # Dashboard
 
-<figure><img src="../../.gitbook/assets/Dashboard.png" alt=""><figcaption></figcaption></figure>
-
 {% hint style="info" %}
 When accessing the SOL platform, you are directed to the initial panel of the System (Dashboard).
 {% endhint %}
+
+<figure><img src="../../.gitbook/assets/dash-sup.png" alt=""><figcaption></figcaption></figure>
 
 On this home screen, you will see an overview of your profile: your personal information and the latest open bids - those that you are participating in or that you can participate in.
 

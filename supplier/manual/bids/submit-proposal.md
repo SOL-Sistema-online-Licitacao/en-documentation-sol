@@ -6,13 +6,13 @@ On the "Lots and Items" page, accessed through the side menu. When you click on 
 
 If it is of the type “Price per lot” or “Global price”, the Fill proposal via spreadsheet button will also be displayed and you must choose one of the filling methods.
 
-<figure><img src="../../../.gitbook/assets/Lotes e itens (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/bid-lots.png" alt=""><figcaption></figcaption></figure>
 
 ### Complete Proposal Through the System
 
 If you choose to complete your proposal directly in the System, just click on Fill proposal. Then the system will open the "Send proposal" page, just click on Click to enter a proposal. Once this is done, an area for filling in the proposal opens, where you must inform the value per unit of the item. Then, just fill in the "Shipping value" field. If there is no freight charge, it is necessary to fill in the field with the number zero (0).
 
-<figure><img src="../../../.gitbook/assets/Lotes e itens - Enviar proposta.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/sub-prop-sys.png" alt=""><figcaption></figcaption></figure>
 
 With the proposal filled out, just click on Submit proposal. With that done, just wait for the deadline for closing the bidding. You will receive a notification when the Association is reviewing the proposals received.
 
@@ -28,6 +28,6 @@ By doing so, the download of a file in XLSX format, which can be opened with Exc
 
 Then, go back to the System and click on the button with the figure of clips, in the right corner of the “Spreadsheet” field, to attach the file you just filled out.
 
-<figure><img src="../../../.gitbook/assets/Lotes e itens -Enviar proposta.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/prop-sheet.png" alt=""><figcaption></figcaption></figure>
 
 With that done, just click Submit Proposal. In a short time, the System will send you a notification informing you if the processing of the worksheet was successful.

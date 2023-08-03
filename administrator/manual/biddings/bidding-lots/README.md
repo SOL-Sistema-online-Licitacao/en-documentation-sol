@@ -2,7 +2,7 @@
 
 To check which items are being bid on and in what quantity, just click on Bidding Lots. A page with the information is opened only for consultation, and if the lot has already received proposals from Suppliers.
 
-<figure><img src="../../../../.gitbook/assets/bid-lots.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/bid-lots (1).png" alt=""><figcaption></figcaption></figure>
 
 ### How to view the proposals made?
 

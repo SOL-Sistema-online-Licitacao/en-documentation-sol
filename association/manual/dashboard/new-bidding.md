@@ -1,8 +1,8 @@
 # New bidding
 
-### How to create a new bid?
+### How to create a new bidding?
 
-To create a new bid, simply click on the Create bid button. You will be directed to the "New Bid" screen, in which you must fill in all the requested information.
+To create a new bid, simply click on the Create bid button. You will be directed to the "New Bid" screen, in which you must fill in all the requested information in all the steps.
 
 {% hint style="info" %}
 Bidding classification:
@@ -28,7 +28,13 @@ Type of bidding:
 * Closed invitation: only invited suppliers can view or participate in the bidding. The Association manages the invitation only to the suppliers that it wants to participate in the tender created. If the invited Supplier chooses to participate in the bidding, he must send a proposal that cannot be edited later.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/Adicionar Licitações.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/new-asso1 (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/new-asso2 (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/new-asso3 (2).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/new-asso4.png" alt=""><figcaption></figcaption></figure>
 
 Then, just click on Create bid and your bid will be created as “Draft”.&#x20;
 
