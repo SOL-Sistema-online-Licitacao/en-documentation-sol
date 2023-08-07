@@ -117,3 +117,8 @@
   * [Profile](association/manual/profile/README.md)
     * [Change data](association/manual/profile/change-data.md)
     * [Update password](association/manual/profile/update-password.md)
+
+## instalation
+
+* [API installation](instalation/api-installation.md)
+* [Frontend installation](instalation/frontend-installation.md)
